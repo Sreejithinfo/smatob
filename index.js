@@ -9,3 +9,5 @@ addNumber(4, 6);
 addNumber(3, 7);
 
 addNumber(13, 27);
+
+addNumber(10, 345);
