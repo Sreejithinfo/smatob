@@ -7,3 +7,5 @@ addNumber(1, 2);
 addNumber(4, 6);
 
 addNumber(3, 7);
+
+addNumber(13, 27);
