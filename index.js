@@ -11,3 +11,8 @@ addNumber(3, 7);
 addNumber(13, 27);
 
 addNumber(10, 345);
+
+console.log('m1');
+console.log('m2');
+console.log('m3');
+console.log('m4');
