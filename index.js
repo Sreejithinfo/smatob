@@ -22,3 +22,4 @@ console.log('file2');
 console.log('file3');
 
 console.log('number1');
+console.log('number2');
