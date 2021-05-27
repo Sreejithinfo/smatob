@@ -30,3 +30,4 @@ console.log('s2');
 console.log('s3');
 
 console.log('s1');
+console.log('s2');
