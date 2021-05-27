@@ -29,6 +29,9 @@ console.log('s1');
 console.log('s2');
 console.log('s3');
 
+console.log('h1');
+console.log('h2');
+console.log('h3');
 console.log('s1');
 console.log('s2');
 console.log('s3');
