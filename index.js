@@ -13,3 +13,4 @@ addNumber(13, 27);
 addNumber(10, 345);
 
 console.log('m1');
+console.log('m2');
