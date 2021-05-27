@@ -16,3 +16,15 @@ console.log('m1');
 console.log('m2');
 console.log('m3');
 console.log('m4');
+
+console.log('file1');
+console.log('file2');
+console.log('file3');
+
+console.log('number1');
+console.log('number2');
+console.log('number3');
+
+console.log('s1');
+console.log('s2');
+console.log('s3');
